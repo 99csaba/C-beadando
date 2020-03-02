@@ -1,0 +1,11 @@
+C:\Users\Csaba\Desktop\okj\c#\Script\Script\obj\Debug\netcoreapp3.1\Script.csprojAssemblyReference.cache
+C:\Users\Csaba\Desktop\okj\c#\Script\Script\obj\Debug\netcoreapp3.1\Script.AssemblyInfoInputs.cache
+C:\Users\Csaba\Desktop\okj\c#\Script\Script\obj\Debug\netcoreapp3.1\Script.AssemblyInfo.cs
+C:\Users\Csaba\Desktop\okj\c#\Script\Script\bin\Debug\netcoreapp3.1\Script.exe
+C:\Users\Csaba\Desktop\okj\c#\Script\Script\bin\Debug\netcoreapp3.1\Script.deps.json
+C:\Users\Csaba\Desktop\okj\c#\Script\Script\bin\Debug\netcoreapp3.1\Script.runtimeconfig.json
+C:\Users\Csaba\Desktop\okj\c#\Script\Script\bin\Debug\netcoreapp3.1\Script.runtimeconfig.dev.json
+C:\Users\Csaba\Desktop\okj\c#\Script\Script\bin\Debug\netcoreapp3.1\Script.dll
+C:\Users\Csaba\Desktop\okj\c#\Script\Script\bin\Debug\netcoreapp3.1\Script.pdb
+C:\Users\Csaba\Desktop\okj\c#\Script\Script\obj\Debug\netcoreapp3.1\Script.dll
+C:\Users\Csaba\Desktop\okj\c#\Script\Script\obj\Debug\netcoreapp3.1\Script.pdb

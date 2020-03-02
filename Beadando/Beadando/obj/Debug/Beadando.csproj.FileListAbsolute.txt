@@ -1,0 +1,9 @@
+C:\Users\Csaba\Desktop\okj\c#\Beadando\Beadando\obj\Debug\Beadando.csprojAssemblyReference.cache
+C:\Users\Csaba\Desktop\okj\c#\Beadando\Beadando\obj\Debug\Beadando.Form1.resources
+C:\Users\Csaba\Desktop\okj\c#\Beadando\Beadando\obj\Debug\Beadando.Properties.Resources.resources
+C:\Users\Csaba\Desktop\okj\c#\Beadando\Beadando\obj\Debug\Beadando.csproj.GenerateResource.cache
+C:\Users\Csaba\Desktop\okj\c#\Beadando\Beadando\bin\Debug\Beadando.exe.config
+C:\Users\Csaba\Desktop\okj\c#\Beadando\Beadando\bin\Debug\Beadando.exe
+C:\Users\Csaba\Desktop\okj\c#\Beadando\Beadando\bin\Debug\Beadando.pdb
+C:\Users\Csaba\Desktop\okj\c#\Beadando\Beadando\obj\Debug\Beadando.exe
+C:\Users\Csaba\Desktop\okj\c#\Beadando\Beadando\obj\Debug\Beadando.pdb

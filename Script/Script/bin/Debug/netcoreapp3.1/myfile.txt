@@ -1,0 +1,30 @@
+[albums]
+emp1;Hollywood Undead;Empie;2020-02-14
+fv55;Hollywood Undead;Five;2017-10-17
+dotd;Hollywood Undead;Day of the dead;2015-03-31
+at22;Hollywood Undead;American Tragedy;2011-04-05
+[tracks]
+Time Bomb;3:37;emp1;null
+Heart of a Champion;emp1;3:30;null
+Empire;3:59;emp1;null
+Enemy;3:11;emp1;null
+Nightmare;3:40;emp1;null
+Second Chances;4:13;emp1;null
+California Dreaming;3:54;fv55;jjjaU5kQV8k
+Whatever It Takes;3:54;fv55;teRTjJUc6vo
+Bad Moon;3:07;fv55;null
+Ghost Beach;3:07;fv55;null
+Broken Record;3:58;fv55;null
+Nobodys Watching;3:39;fv55;null
+Cashed Out;3:47;fv55;null
+Usual Suspects;3:44;dotd;6wsm5y07qDs
+How We Roll;4:45;dotd;null
+Day of the Dead;3:55;dotd;bl0e5DrYLyY
+Take Me Home;4:39;dotd;null
+Gravity;3:19;dotd;yjREC9hg6bU
+Been to Hell;3:23;at22;SFnE2_DUhbs
+Apologize;3:27;at22;null
+Comin in Hot;3:43;at22;TP5cjnVGJ38
+I Dont Wanna Die;3:59;at22;null
+Hear Me Now;3:34;at22;pdoIs1jZbCY
+Lights Out;3:51;at22;null
